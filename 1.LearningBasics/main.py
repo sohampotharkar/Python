@@ -52,3 +52,16 @@ PI = 3.14 # but this does not mean that we can't change the value of the PI.
 #The action we are performing is known as the expression and the line of code is the statement
 user_age =100
 soham_age = user_age/4
+
+#Strings
+print(type('MY Name is Soham Avinash Potharkar'))
+string_naming_1 = 'soham is a good boy'
+string_naming_2 = "soham is a good boy"
+print(string_naming_1)
+print(string_naming_2)
+
+long_string = '''WOW 
+It's been a Great day today
+It was truly a meaningful day'''
+
+print(long_string)
